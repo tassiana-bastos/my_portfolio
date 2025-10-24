@@ -28,7 +28,7 @@ Although these projects were developed as part of my academic coursework, they f
 Project	Description	Tools & Skills
 - 1️⃣ Gym Membership Analysis -->	Exploratory data analysis of a fitness center dataset to understand user engagement, behavior, and retention patterns. Includes data cleaning, statistical summaries, and behavioral insights.	Python, Pandas, Matplotlib
 - 2️⃣ Human Resources Data Analysis	--> Analysis of HR data to explore employee structure, filtering, and multi-index organization. Includes data cleaning, transformation, and workforce trend analysis.	Python, Pandas
-- 3️⃣ Spotify Tracks Visualization	Visual --> Analysis of Spotify tracks to help non-technical stakeholders interpret music trends. Created clear and varied charts to support data-driven decisions.	Python, Pandas, Matplotlib
+- 3️⃣ Spotify Tracks Visualization	 --> Visual analysis of Spotify tracks to help non-technical stakeholders interpret music trends. Created clear and varied charts to support data-driven decisions.	Python, Pandas, Matplotlib
 - 4️⃣ Streaming Platform Insights -->	End-to-end data pipeline to support product and marketing teams of streaming platforms. Includes loading, cleaning, transformation, visualization, and export of user interaction data.	Python, Pandas, Matplotlib, Seaborn
 
 ### 🧮 SQL Projects
