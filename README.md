@@ -37,6 +37,7 @@ Project	Description	Tools & Skills
 - 2️⃣ Retail Operations Optimization	--> Used window functions and ANSI SQL to analyze retail performance, supporting decisions on discounts, logistics, and category prioritization by region.	SQL (Window Functions, Ranking, Aggregation)
 - 3️⃣ Global Temperature Trends	--> Conducted time-series SQL analysis to uncover seasonal patterns, long-term temperature trends, and cumulative variations for climate reporting.	SQL (Time-Series Analysis, Aggregations)
 - 4️⃣ Retail Transaction Analysis -->	Comprehensive SQL project exploring retail transactions with analytical functions, cohort analysis, time-series exploration, and textual data analysis to identify behavioral trends.	SQL (Window Functions, Cohort Analysis, Text Analysis)
+- Link to DeepNote --> https://deepnote.com/workspace/INFNET-6327493f-c456-49e5-810e-35f3b5c7e03c/project/Data-Analysis-with-SQL-b50e4344-4647-4a93-b699-42e32f41625a/notebook/Retail-Transaction-Analysis-fbe6795d0ab84ba5a4451e9329bd836d?utm_source=share-modal&utm_medium=product-shared-content&utm_campaign=notebook&utm_content=b50e4344-4647-4a93-b699-42e32f41625a
 
 
 
