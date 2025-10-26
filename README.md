@@ -30,6 +30,7 @@ Project	Description	Tools & Skills
 - 2️⃣ Human Resources Data Analysis	--> Analysis of HR data to explore employee structure, filtering, and multi-index organization. Includes data cleaning, transformation, and workforce trend analysis.	Python, Pandas
 - 3️⃣ Spotify Tracks Visualization	 --> Visual analysis of Spotify tracks to help non-technical stakeholders interpret music trends. Created clear and varied charts to support data-driven decisions.	Python, Pandas, Matplotlib
 - 4️⃣ Streaming Platform Insights -->	End-to-end data pipeline to support product and marketing teams of streaming platforms. Includes loading, cleaning, transformation, visualization, and export of user interaction data.	Python, Pandas, Matplotlib, Seaborn
+- Link to DeepNote --> https://deepnote.com/workspace/INFNET-6327493f-c456-49e5-810e-35f3b5c7e03c/project/Data-Analysis-with-Python-5de8e3f5-0f25-4dba-a6d9-d0eb48da4eda/notebook/Streaming-Platform-Insights-80d5200ebc79472a85d15a3f592ec07c?utm_source=share-modal&utm_medium=product-shared-content&utm_campaign=notebook&utm_content=5de8e3f5-0f25-4dba-a6d9-d0eb48da4eda
 
 ### 🧮 SQL Projects
 Project	Description	Tools & Skills
