@@ -40,15 +40,21 @@ Project	Description	Tools & Skills
 - 4️⃣ Retail Transaction Analysis -->	Comprehensive SQL project exploring retail transactions with analytical functions, cohort analysis, time-series exploration, and textual data analysis to identify behavioral trends.	SQL (Window Functions, Cohort Analysis, Text Analysis)
 - Link to DeepNote --> https://deepnote.com/workspace/INFNET-6327493f-c456-49e5-810e-35f3b5c7e03c/project/Data-Analysis-with-SQL-b50e4344-4647-4a93-b699-42e32f41625a/notebook/Retail-Transaction-Analysis-fbe6795d0ab84ba5a4451e9329bd836d?utm_source=share-modal&utm_medium=product-shared-content&utm_campaign=notebook&utm_content=b50e4344-4647-4a93-b699-42e32f41625a
 
+### 🚀 Big Data Apache Spark Projects
+Project	Description	Tools & Skills
+- 1️⃣ Apache_Spark_Rick_and_Morty --> The analysis was conducted using graph-based methods, focusing on the relationships between vertices through motif finding. The PageRank algorithm was applied to identify the most influential characters, and a breadth-first search (BFS) was used to determine the most suitable paths within the graph. PageRank, Spark, BFS, Graphs
+- 2️⃣ Clients_Analysis --> The project involved applying robust feature engineering techniques and developing predictive models, including hyperparameter tuning and model evaluation using Apache Spark ML. The workflow also included the creation of a SparkSession, importing and processing data with DataFrames, performing data manipulation through Spark SQL, and integrating with databases using Spark and Hadoop. SparkSQL, Apache Spark ML, Apache Hadoop
+
 
 
 
 ## 🛠️ Technologies & Tools
 
-- Languages: Python, SQL
-- Libraries: Pandas, NumPy, Matplotlib, Seaborn
+- Languages: Python, SQL, JavaScript
+- Frameworks: Apache Hadoop, TensorFlow, Scikit-learn, Apache Airflow, Apache Spark
+- Libraries: Pandas, NumPy, Matplotlib, Seaborn, GraphFrames, PySpark, Spark SQL, GraphX
 - Database Systems: SQLite, MySQL
-- Environments: Deepnote, Jupyter Notebook, VS Code
+- Environments: Deepnote, Jupyter Notebook, VS Code, Colab
 
 
 
