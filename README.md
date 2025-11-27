@@ -1,4 +1,4 @@
-# 📘 Portfolio — Data Analysis Projects
+# 📘 Portfolio — Data Science Projects
 
 Welcome to my Data Analysis Portfolio, a collection of projects I completed during my university studies in Data Science.
 Each project focuses on data cleaning, transformation, and exploration using Python (Pandas) and SQL, demonstrating my ability to extract insights from raw data and communicate findings effectively.
@@ -15,6 +15,8 @@ Although these projects were developed as part of my academic coursework, they f
 - Querying and managing data with SQL
 
 - Exploratory Data Analysis (EDA)
+
+- Data mining techniques to extract actionable insights from structured datasets
 
 - Data visualization and storytelling
 
